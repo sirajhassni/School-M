@@ -2,7 +2,11 @@
 
 include_once 'includes/navbar.php';
 ?>
-<div class=" banner">
+<div class="slider-section">
+
+</div>
+
+<div class="our-features-section">
 
 </div>
 
