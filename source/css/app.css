@@ -4,3 +4,13 @@ body {
   font-family: "Merriweather", serif;
 }
 @import url("https://fonts.googleapis.com/css?family=Merriweather&display=swap");
+
+.header {
+  width: 100%;
+}
+
+.top-bar {
+  background: #252525;
+  height: 40px;
+  border-top: 3px solid rgb(40, 250, 33);
+}
