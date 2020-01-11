@@ -13,7 +13,7 @@
 
          <div class="top-bar">
              <ul class="contects-info">
-                 <li></li>
+                 <li>Contect</li>
 
              </ul>
 
