@@ -1,9 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Merriweather", serif;
+  font-family: "Roboto", sans-serif;
 }
-@import url("https://fonts.googleapis.com/css?family=Merriweather&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 .header {
   width: 100%;
@@ -13,4 +13,38 @@ body {
   background: #252525;
   height: 40px;
   border-top: 3px solid rgb(40, 250, 33);
+  display: flex;
+}
+.contects-info {
+  display: flex;
+  margin: 0;
+  text-align: center;
+  padding: 10px;
+}
+
+.contects-info li {
+  list-style: none;
+  color: white;
+  padding-left: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.contects-info li i {
+  color: #00b16a;
+  font-size: 14px;
+  padding-right: 5px;
+}
+.contects-info li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.social-icons ul {
+  display: flex;
+}
+
+.social-icons ul li {
+  list-style: none;
 }
