@@ -68,6 +68,57 @@ include_once 'includes/navbar.php';
 
 <div class="our-features-section">
 
+<div class="Main-Container">
+        
+        <div class="Heading">
+            <h1>We Provide <span>Educational</span> Solutions</h1>
+        </div>
+
+        <div class="for-hr">
+        <hr>
+        <hr>
+        </div>
+
+        <div class="Pragraf">
+            <p>type somethink here just for make hbchdb hhgj gfdgft hfhenf hjhnf 
+            yfgvgtff ftyfv vfvf peragraf  kjsdhnfj sdjfjfdsh fvhvgh gfhgfhds hdgfhgdshfg</p>
+        </div>
+
+
+
+        <div class="row" style="width:100%">
+  
+  
+  <div class="col-md-4 img" style="text-align: center;" >
+      <img src="imgs/banner-2.jpg" height="300px" width="430px;"  alt="">
+      <h3>raeesesdead jedbh</h3>
+      <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
+  </div>
+
+
+  <div class="col-md-4 img" style="text-align: center;" >
+    <img src="imgs/banner-2.jpg" height="300px" width="430px;" alt="">
+    <h3>raeesesdead jedbh</h3>
+    <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
+</div>
+
+
+
+<div class="col-md-4 img" style="text-align: center;">
+  <img src="imgs/banner-2.jpg" height="300px" width="450px;" alt="">
+  <h3>raeesesdead jedbh</h3>
+  <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
+</div>
+
+  
+</div>
+
+
+
+
+
+    </div>
+
 </div>
 
 <?php

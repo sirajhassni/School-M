@@ -48,3 +48,56 @@ body {
 .social-icons ul li {
   list-style: none;
 }
+
+
+.Main-Container{
+  /* background-color: aqua; */
+  height: 700px;
+  width: 100%;
+  
+position: absolute;
+}
+
+.heading{
+  text-align: center;
+  margin-top: 55px;
+}
+
+.heading h1{
+  font-size: 40px;
+  font-weight: bolder;
+  /* background-color: honeydew; */
+}
+
+.heading h1 span{
+  color: green;
+}
+
+
+.for-hr hr{
+  width: 150px;
+}
+
+.Pragraf{
+  text-align: center;
+}
+
+.Pragraf p{
+  font-size: 21px;
+  /* background-color: honeydew; */
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.for-image{
+  /* background-color: whitesmoke; */
+  margin-top: 130px;
+  height: 350px;
+  width: 100%;
+  position: absolute;
+}
+
+.row{
+  /* background-color: violet; */
+  height: 300px;
+}
