@@ -14,12 +14,14 @@ body {
   height: 40px;
   border-top: 3px solid rgb(40, 250, 33);
   display: flex;
+  overflow: hidden;
+  justify-content: space-evenly;
+  align-items: center;
 }
 .contects-info {
   display: flex;
   margin: 0;
   text-align: center;
-  padding: 10px;
 }
 
 .contects-info li {
@@ -28,10 +30,11 @@ body {
   padding-left: 5px;
   font-size: 14px;
   font-weight: bold;
+  padding: 10px;
 }
 
 .contects-info li i {
-  color: #00b16a;
+  color: #28fa21;
   font-size: 14px;
   padding-right: 5px;
 }
@@ -43,53 +46,58 @@ body {
 
 .social-icons ul {
   display: flex;
+  position: relative;
+  margin: 0;
 }
 
 .social-icons ul li {
   list-style: none;
+  padding: 20px;
 }
 
+.social-icons ul li a {
+  color: white;
+}
 
-.Main-Container{
+.Main-Container {
   /* background-color: aqua; */
   height: 700px;
   width: 100%;
-  
-position: absolute;
+
+  position: absolute;
 }
 
-.heading{
+.heading {
   text-align: center;
   margin-top: 55px;
 }
 
-.heading h1{
+.heading h1 {
   font-size: 40px;
   font-weight: bolder;
   /* background-color: honeydew; */
 }
 
-.heading h1 span{
+.heading h1 span {
   color: green;
 }
 
-
-.for-hr hr{
+.for-hr hr {
   width: 150px;
 }
 
-.Pragraf{
+.Pragraf {
   text-align: center;
 }
 
-.Pragraf p{
+.Pragraf p {
   font-size: 21px;
   /* background-color: honeydew; */
   margin-right: 80px;
   margin-left: 80px;
 }
 
-.for-image{
+.for-image {
   /* background-color: whitesmoke; */
   margin-top: 130px;
   height: 350px;
@@ -97,7 +105,20 @@ position: absolute;
   position: absolute;
 }
 
-.row{
+.row {
   /* background-color: violet; */
   height: 300px;
+}
+
+/* header section mid section css  */
+
+.mid-section {
+  display: flex;
+  align-items: center;
+  height: 120px;
+  width: 80%;
+  margin: auto;
+}
+.mid-section img {
+  height: 80px;
 }
