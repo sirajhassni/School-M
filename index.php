@@ -64,7 +64,7 @@ include_once 'includes/navbar.php';
 	</div><!-- e carousel -->
 </section><!-- e section -->
 
-<!-- Bootstrap Slider -->
+<!-- Our Features Section -->
 
 <div class="our-features-section">
 
@@ -80,46 +80,34 @@ include_once 'includes/navbar.php';
         </div>
 
         <div class="Pragraf">
-            <p>type somethink here just for make hbchdb hhgj gfdgft hfhenf hjhnf 
-            yfgvgtff ftyfv vfvf peragraf  kjsdhnfj sdjfjfdsh fvhvgh gfhgfhds hdgfhgdshfg</p>
+            <p>Mauris at varius orci. Vestibulum interdum felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante vitae laoreet sagittis. In pellentesque viverra purus. Sed risus est, molestie nec hendrerit hendreri</p>
         </div>
 
-
-
-        <div class="row" style="width:100%">
+<div class="container">
+        <div class="row">
   
   
-  <div class="col-md-4 img" style="text-align: center;" >
-      <img src="imgs/banner-2.jpg" height="300px" width="430px;"  alt="">
-      <h3>raeesesdead jedbh</h3>
-      <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
+        <div class="col-md-4 img" style="text-align: center;" >
+      <img class="img-fluid" src="imgs/Online Courses.jpg"  alt="Our Features image 1">
+      <h3>Online Courses Facilities</h3>
+      <h6>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</h6>
   </div>
 
-
   <div class="col-md-4 img" style="text-align: center;" >
-    <img src="imgs/banner-2.jpg" height="300px" width="430px;" alt="">
-    <h3>raeesesdead jedbh</h3>
-    <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
+      <img class="img-fluid" src="imgs/Student Admin Pannel.jpg"  alt="Our Features image 2">
+      <h3>Student Admin Panel</h3>
+      <h6>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</h6>
+  </div>
+ 
+  <div class="col-md-4 img" style="text-align: center;" >
+      <img class="img-fluid" src="imgs/Perfect Guidelines.jpg"  alt="Our Features image 3">
+      <h3>Perfect Guidelines</h3>
+      <h6>Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim</h6>
+  </div>
+
 </div>
-
-
-
-<div class="col-md-4 img" style="text-align: center;">
-  <img src="imgs/banner-2.jpg" height="300px" width="450px;" alt="">
-  <h3>raeesesdead jedbh</h3>
-  <h6>fdsgfdgsgg djbfhd djbfhg jdhggf shvhgv efwef ewfrwegf fwefew </h6>
 </div>
-
-  
-</div>
-
-
-
-
-
     </div>
-
 </div>
-
 <?php
 include_once 'includes/footer.php';
