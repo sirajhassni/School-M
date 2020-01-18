@@ -69,7 +69,10 @@
                                  <li><a href="#">About Us</a></li>
                              </ul>
                              <div class="login-section">
-                                 <a class="btn btn-success" href="#">Join/LogIn</a>
+                                 <form action="">
+                                     <input type="button" class="btn btn-success" type="submit" name="login"
+                                         value="Join/LogIn">
+                                 </form>
                              </div>
                          </nav>
 
