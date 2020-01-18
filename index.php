@@ -69,7 +69,9 @@ include_once 'includes/navbar.php';
 <div class="our-features-section">
 
   <div class="Main-Container">
-
+    <div class="heading">
+      <h1>We Provide <span>Educational</span> Solutions</h1>
+    </div>
     <div class="Pragraf">
       <p>Mauris at varius orci. Vestibulum interdum felis eu nisl pulvinar, quis ultricies nibh. Sed ultricies ante
         vitae laoreet sagittis. In pellentesque viverra purus. Sed risus est, molestie nec hendrerit hendreri</p>
