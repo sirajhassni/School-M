@@ -1,5 +1,5 @@
-<?php include_once 'includes/links.php'; ?>
+ <?php include_once 'includes/js-links.php'; ?>
 
-</html>
+ </html>
 
-</body>
+ </body>
