@@ -68,12 +68,7 @@
                                  <li><a href="#">School Info</a></li>
                                  <li><a href="#">About Us</a></li>
                              </ul>
-                             <div class="login-section">
-                                 <form action="">
-                                     <input type="button" class="btn btn-success" type="submit" name="login"
-                                         value="Join/LogIn">
-                                 </form>
-                             </div>
+                             <a href="#" id="login" class="btn btn-success">Login</a>
                          </nav>
 
 

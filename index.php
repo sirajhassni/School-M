@@ -103,5 +103,36 @@ include_once 'includes/navbar.php';
     </div>
   </div>
 </div>
+
+
+
+<!-- lOGIN  pop-ups -->
+
+
+<div class="login-card  overly">
+  <div class="log-main-card">
+    <div class="cros-sing">
+      <i id="close-lg-popup" class="fas fa-plus-circle"></i>
+    </div>
+
+    <div class="lg-card-header">
+
+      <h1>Alpha Login panel</h1>
+    </div>
+    <div class="lg-card-body">
+
+      <form action="">
+        <input type="text" class="name-input" autocomplete="off" name="email" placeholder="Email phone"><br>
+        <input type="password" class="pass-input" name="password" placeholder="password"><br>
+        <input type="submit" name="login" class="btn btn-success">
+
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+
 <?php
 include_once 'includes/footer.php';
