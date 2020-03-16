@@ -26,7 +26,7 @@ $n=$_POST['num'];
             <td><?php echo $i;?></td>
             <td><?php echo "=";?></td>
             <td><?php echo $i*$n;?></td>
-        </tr>
+   </tr>
 <?php   
     }
 }

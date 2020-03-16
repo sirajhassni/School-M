@@ -16,7 +16,7 @@
             <form action="connection/admin-log.php" Method="post">
                 <input type="text" placeholder="Email" name="email"><br>
                 <input type="password" placeholder="Password" name="password"><br>
-                <input type="submit" name="submit" class="btn btn-success">
+                <input type="submit" name="admin-submit" class="btn btn-success">
             </form>
         </div>
     </div>

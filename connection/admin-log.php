@@ -1,9 +1,14 @@
 <?php
-include_once 'connection/connection.php';
+if (isset($_POST['admin-submit'])) {
 
-$username = $_POST['name'];
-$password = $_POST['password'];
+    require_once 'connetion.php';
 
-if (isset($_POST['submit'])) {
-    $log = sqli_query("select * from `admin` where= '$username' where password='$password'");
+    $adminName = $_POST['email'];
+    $adminpwd = $_POST['psssword'];
+
+    $sql  = 
+   
+}else {
+    header('location:../adminlogin.php');
+    exit();
 }
