@@ -10,19 +10,19 @@
 </head>
 
 <body>
-
+<div class="admin-log-panel">
     <div class="container">
     <div class="row">       
-     <div class="admin-login col-12 col-xl-6 col-sm-6 col-md-8">
+     <div class="admin-login col-12 col-xl-12 col-sm-12 col-md-12">
             <form action="connection/admin-log.php" Method="post">
-                <input type="text" placeholder="Email" name="email"><br>
-                <input type="password" placeholder="Password" name="password"><br>
+                <input class="inp-e" type="text" placeholder="Email" name="email"><br>
+                <input  class="inp-p" type="password" placeholder="Password" name="password"><br>
                 <input type="submit" name="admin-submit" class="btn btn-success">
             </form>
         </div>
     </div>
     </div>
-
+    </div>
 </body>
 
 </html>

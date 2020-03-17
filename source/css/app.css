@@ -334,3 +334,36 @@ ul.social-network li {
 }
 
 /* login  css end */
+
+/* admin login css */
+
+.admin-login {
+  justify-content: center;
+  text-align: center;
+}
+
+.admin-login input {
+  width: 40%;
+  margin-top: 20px;
+}
+
+.inp-e,
+.inp-p {
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  outline: none;
+}
+
+@media only screen and (max-width: 375px) {
+  .admin-login input {
+    width: 230px;
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 441px) {
+  .admin-login input {
+    width: 230px;
+    margin-top: 20px;
+  }
+}
